@@ -22,7 +22,7 @@ Untuk installasi preset DB dengan django
 ```
 $ git clone https://github.com/jajangratis/fbDBdjango YourDb
 $ cd YourDb
-$ npm install
+$ npm install -r requirements.txt
 ```
 
 ## Running Your App
